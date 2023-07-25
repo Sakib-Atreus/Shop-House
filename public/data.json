@@ -1,0 +1,147 @@
+{
+  "product": [
+    {
+      "_id": "64bfcf327a746da0e151caa6",
+      "picture": "https://images.meesho.com/images/products/237225510/74jwq_512.jpg",
+      "price": "$155",
+      "name": "Plain cotton full sleeve Casual shirt for men",
+      "category": "Male",
+      "colors": "Blue",
+      "size": "Medium",
+      "about": "This look can be a pair of well-fitting raw denim jeans, a t-shirt, and some stylish sneakers.\r\n",
+      "review": {
+        "username": "Wilcox Trevino",
+        "rating": 4,
+        "comment": "Great product! Highly recommended."
+      }
+    },
+    {
+      "_id": "64bfcf325e154f09d4efdbbc",
+      "picture": "https://m.media-amazon.com/images/I/51QKF9Gt2PL._AC_SL1000_.jpg",
+      "price": "$100",
+      "name": "Glusic Trends Men Solid Casual Dark Blue Shirt",
+      "category": "Male",
+      "colors": "Dark Blue",
+      "size": "Medium",
+
+      "about": "This look can be a pair of well-fitting raw denim jeans, a t-shirt, and some stylish sneakers.\r\n",
+      "review": {
+        "username": "White Klein",
+        "rating": 2,
+        "comment": "Average product. Could be better."
+      }
+    },
+    {
+      "_id": "64bfcf32eab39591372fc615",
+      "picture": "https://m.media-amazon.com/images/I/516-O691LfL._AC_UY580_.jpg",
+      "price": "$225",
+      "name": "Fragarn Shirts for Men Stylish Black Shirt",
+      "category": "Male",
+      "colors": "Black",
+      "size": "Large",
+
+      "about": "This look can be a pair of well-fitting raw denim jeans, a t-shirt, and some stylish sneakers.\r\n",
+      "review": {
+        "username": "Dale Hawkins",
+        "rating": 2,
+        "comment": "Excellent quality and fast shipping."
+      }
+    },
+    {
+      "_id": "64bfcf32eb1762abd7944679",
+      "picture": "https://static-01.daraz.com.bd/p/6fe6804a3a6551707c6a2d0fb806e385.jpg",
+      "price": "$268",
+      "name": "Stylish Regular Slim Gabardine Pants",
+      "category": "Male",
+      "colors": "Black",
+      "size": "Medium",
+
+      "about": "This look can be a pair of well-fitting raw denim jeans, a t-shirt, and some stylish sneakers.\r\n",
+      "review": {
+        "username": "Shannon Sosa",
+        "rating": 2,
+        "comment": "Average product. Could be better."
+      }
+    },
+    {
+      "_id": "64bfcf32b6f7bbaa737150e4",
+      "picture": "https://static-01.daraz.com.bd/p/b75d823d96db3d7b3cef4120c653cc8b.jpg",
+      "price": "$217",
+      "name": "Men Clothing Business Pant",
+      "category": "Male",
+      "colors": "Light Colour",
+      "size": "Medium",
+
+      "about": "This look can be a pair of well-fitting raw denim jeans, a t-shirt, and some stylish sneakers.\r\n",
+      "review": {
+        "username": "Latisha Briggs",
+        "rating": 4,
+        "comment": "Average product. Could be better."
+      }
+    },
+    {
+      "_id": "64bfcf32e82d87f8c5a38833",
+      "picture": "https://i.ebayimg.com/images/g/p6wAAOSwjZ9fDA3r/s-l1600.jpg",
+      "price": "$253",
+      "name": "Men Slim Fit Trousers Business",
+      "category": "Male",
+      "colors": "White",
+      "size": "Large",
+
+      "about": "This look can be a pair of well-fitting raw denim jeans, a t-shirt, and some stylish sneakers.\r\n",
+      "review": {
+        "username": "Hammond Hill",
+        "rating": 1,
+        "comment": "Excellent quality and fast shipping."
+      }
+    },
+    {
+      "_id": "64bfcf32710b68f2f85173ea",
+      "picture": "https://5.imimg.com/data5/BZ/FX/DP/ANDROID-17852573/1560116141951-jpg-500x500.jpg",
+      "price": "$221",
+      "name": "Women''s Stylish Polyester Dresses",
+      "category": "Female",
+      "colors": "Red",
+      "size": "Medium",
+
+      "about": "This look can be a pair of well-fitting raw denim jeans, a t-shirt, stylish sneakers.\r\n",
+      "review": {
+        "username": "Evans Hansen",
+        "rating": 4,
+        "comment": "Average product. Could be better."
+      }
+    },
+    {
+      "_id": "64bfcf321995320923f114ff",
+      "picture": "https://images.meesho.com/images/products/46941503/ndvks_512.webp",
+      "price": "$349",
+      "name": "Fashion Western Dress for Girls",
+      "category": "Female",
+      "colors": "White",
+      "size": "Large",
+
+      "about": "This look can be a pair of well-fitting raw denim jeans, a t-shirt, and some stylish sneakers.\r\n",
+      "review": {
+        "username": "Beatrice Dotson",
+        "rating": 1,
+        "comment": "Excellent quality and fast shipping."
+      }
+    },
+    {
+      "_id": "64bfcf32e3dd53d6eb40fc9a",
+      "picture": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/21197228/2022/12/14/98fcb590-ac27-4767-a665-6422207884b61671027738795CottonFlowerPrintEthnicDress1.jpg",
+      "price": "$345",
+      "name": "Simple One Pitch for Women",
+      "category": "Baby",
+      "colors": "Blue",
+      "size": "Medium",
+
+      "about": "This look can be a pair of well-fitting raw denim jeans, a t-shirt, and some stylish sneakers.\r\n",
+      "review": {
+        "username": "Davenport Reynolds",
+        "rating": 2,
+        "comment": "Great product! Highly recommended."
+      }
+    }
+  ]
+}
