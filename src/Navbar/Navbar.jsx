@@ -16,8 +16,8 @@ const Navbar = () => {
                     <li><a>About</a></li>
                 </ul>
                 </div>
-                <img className='w-16 h-16' src="https://freepngimg.com/save/158223-photos-mall-shopping-store-free-clipart-hq/512x512" alt="" />
-                <a href='/' className="btn btn-ghost normal-case text-2xl font-bold">Shop House</a>
+                <img className='w-16 h-16 lg:block md:block hidden' src="https://freepngimg.com/save/158223-photos-mall-shopping-store-free-clipart-hq/512x512" alt="" />
+                <a href='/' className="btn btn-ghost normal-case lg:text-2xl md:text-2xl text-lg font-bold">Shop House</a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1 font-medium">
@@ -30,7 +30,7 @@ const Navbar = () => {
             <div className="flex-none gap-2 navbar-end">
                 <p><FaSearch size={25}/></p>
                 <div className="form-control">
-                    <input type="text" placeholder="Search" className="input input-bordered w-24 md:w-auto" />
+                    <input type="text" placeholder="Search" className="input input-bordered w-12 lg:w-64 md:w-auto" />
                 </div>
                 <div className="dropdown dropdown-end">
                 <label tabIndex={0} className="btn btn-ghost btn-circle avatar">

@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
         <link
           rel="icon"
           type="image/svg+xml"
-          href="../app/title-icon.ico"
+          href="https://freepngimg.com/download/shopping/158223-photos-mall-shopping-store-free-clipart-hq.png"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Shop House</title>
