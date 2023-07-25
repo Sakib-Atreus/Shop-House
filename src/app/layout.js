@@ -22,7 +22,7 @@ export default function RootLayout({ children }) {
           href="https://freepngimg.com/save/158223-photos-mall-shopping-store-free-clipart-hq/512x512"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>My page title</title>
+        <title>Shop House</title>
       </head>
 
       <body className={inter.className}>
