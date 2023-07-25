@@ -16,6 +16,7 @@ const Navbar = () => {
                     <li><a>About</a></li>
                 </ul>
                 </div>
+                <img className='w-16 h-16' src="https://freepngimg.com/save/158223-photos-mall-shopping-store-free-clipart-hq/512x512" alt="" />
                 <a href='/' className="btn btn-ghost normal-case text-2xl font-bold">Shop House</a>
             </div>
             <div className="navbar-center hidden lg:flex">
